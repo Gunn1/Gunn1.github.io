@@ -15,3 +15,6 @@ h2 {
 	border: 3px;
 	border-color: black;
 }
+.center {
+	text-align:center;
+}
